@@ -1,8 +1,6 @@
 # Hi, I'm Chawapol Tangsirichoochuay. 
 You can call me me Gin 😆
 
-**Data Analyst | Energy & Sustainability Data | Bangkok, Thailand**
-
 I'm an environmental engineer turned data analyst. Over the past 3 years in
 energy and carbon markets, I've built dashboards, automated workflows and lead
 pipelines that save teams time and support revenue growth. I enjoy turning
