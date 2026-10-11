@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Chawapol Tangsirichoochuay. 
+You can call me me Gin 😆
 
-<!--
-**chawapoltang/chawapoltang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Energy & Sustainability Data | Bangkok, Thailand**
 
-Here are some ideas to get you started:
+I'm an environmental engineer turned data analyst. Over the past 3 years in
+energy and carbon markets, I've built dashboards, automated workflows and lead
+pipelines that save teams time and support revenue growth. I enjoy turning
+messy data into clear decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working on 
+- Building portfolio projects from my real work (anonymized): lead
+  segmentation, revenue forecasting and quotation automation
+- Strengthening my **SQL** with hands-on analysis of public datasets
+- Designing dashboards in **Power BI** and **Looker Studio** that answer
+  real business questions
+- Exploring how data can support carbon and renewable energy markets
+
+## Featured Projects
+Explore my data projects here in my repository
