@@ -9,8 +9,8 @@ messy data into clear decisions.
 ## What I'm Working on 
 - Building portfolio projects from my real work (anonymized): lead
   segmentation, revenue forecasting and quotation automation
-- Strengthening my **SQL** with hands-on analysis of public datasets
-- Designing dashboards in **Power BI** and **Looker Studio** that answer
+- Strengthening my SQL with hands-on analysis of public datasets
+- Designing dashboards in Power BI and Looker Studio that answer
   real business questions
 - Exploring how data can support carbon and renewable energy markets
 
